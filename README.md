@@ -123,6 +123,11 @@ This creates:
 |            |                                                        | **Discount**      | **-3,000.00** |
 |            |                                                        | **Total**         | **17,998.00** |
 
+
+
+<img width="689" height="450" alt="image" src="https://github.com/user-attachments/assets/52af74fb-c37f-482a-998d-53be05bdf266" />
+
+
 ### Item Performance Report
 
 
@@ -133,6 +138,10 @@ This creates:
 |           |                | **Sub Total** | **700.00** |
 |           |                | **Discount**  | **-50.00** |
 |           |                | **Total**     | **650.00** |
+
+
+
+<img width="715" height="460" alt="image" src="https://github.com/user-attachments/assets/d22130bc-fbee-4820-ac27-0706a0afbee1" />
 
 ---
 
@@ -165,3 +174,4 @@ This creates:
 - Add charts in performance report
 
 ---
+
